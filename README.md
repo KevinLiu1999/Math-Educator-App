@@ -1,1 +1,1 @@
-# Math-Educator-App
+# Math-Educator-App - Final project
